@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author la curacao
+ * @author Maritza
  */
 public class Proyecto {
  public static void main(String[] args) {
