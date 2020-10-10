@@ -1,5 +1,5 @@
-# Notas-Alumno
-Java
+# Notas-Alumno Carlos Arreaza   Andrea Zetino
+Java           Carne: 2000084   
 package uspg.edu.gt;
 
 import java.util.Scanner;
